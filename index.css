@@ -1,0 +1,43 @@
+/* body{ */
+/* } */
+*{
+    margin:0px;
+    padding: 0px;
+}
+/* nav{
+    background-color: rgba(0,0,0,0.2);
+    color:gold !important;
+} */
+/* nav a{
+    color:white !important;
+} */
+/* .navbar-nav{
+display: flex;
+justify-content: end;
+} */
+/* .navbar-nav a{
+    color:red !important;
+}
+.navbar-nav a:hover{
+    color:rgb(207, 63, 63) !important;
+} */
+/* #myNavbar{
+    display: flex;
+    justify-content: end;
+} */
+@media (min-width: 768px) and (max-width: 1280px){
+    .navbar-expand-sm .navbar-collapse{
+        display: flex;
+        justify-content: end;
+    }
+}
+/* @media (min-width: 425px) and (max-width: 768px){
+     .first_box{
+        height: 75vh !important;
+    }
+    /* .first_box{
+        height: 75vh !important;
+    } */
+/*  */
+ 
+
